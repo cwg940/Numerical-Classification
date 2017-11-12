@@ -1,2 +1,2 @@
-# Numerical Classification with Raspberry Pi 3
-Numerical classification using Keras with Theano, and OpenCV
+# Numerical Classification with Raspberry Pi 3, Keras, and OpenCV
+## What does it do?
