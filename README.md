@@ -7,3 +7,8 @@ The program is broken into just two files: 'stream.py' and 'processingimage.py',
 'stream.py' takes the image from the PiCamera, feeds the array of pixels to 'processingimage.py' which then converts the image to mimic the data that was used for training. Due to details such as light levels, and marker thinkness, the effectiveness of cleansing the image could differ environment to environment. 
 
 ![alt text](https://github.com/cwg940/Numerical-Classification/blob/master/image112017.jpg?raw=true)
+
+Thank you for visiting!
+CWG
+
+
